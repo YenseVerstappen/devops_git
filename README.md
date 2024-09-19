@@ -1,2 +1,2 @@
 # devops_git
-voor de lessen devops
+voor de lessen die van devops komen
